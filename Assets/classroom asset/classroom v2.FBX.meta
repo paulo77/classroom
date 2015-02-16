@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 55287fa57e2072645acac97906edc903
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: blackboard
+    100002: books 001
+    100004: books 002
+    100006: books 003
+    100008: books 004
+    100010: books 005
+    100012: Camera001
+    100014: Camera001.Target
+    100016: ceiling
+    100018: chair
+    100020: chair001
+    100022: chair002
+    100024: chair003
+    100026: chair004
+    100028: chair005
+    100030: chair006
+    100032: chair007
+    100034: chair008
+    100036: chair009
+    100038: chair010
+    100040: chair011
+    100042: chair012
+    100044: chair013
+    100046: chair014
+    100048: chair015
+    100050: chair016
+    100052: chair017
+    100054: chair018
+    100056: chair019
+    100058: chair020
+    100060: chair021
+    100062: chair022
+    100064: chair023
+    100066: chair024
+    100068: chair025
+    100070: chair026
+    100072: chair027
+    100074: chair028
+    100076: chair029
+    100078: //RootNode
+    100080: Compass001
+    100082: Daylight001
+    100084: door
+    100086: door frame
+    100088: door frame001
+    100090: door handle
+    100092: door handle001
+    100094: door001
+    100096: east wall
+    100098: file folder 001
+    100100: file folder 002
+    100102: file folder 003
+    100104: file folder 004
+    100106: floor
+    100108: Geo_grp
+    100110: glass left001
+    100112: glass left002
+    100114: glass left003
+    100116: glass left004
+    100118: glass right001
+    100120: glass right002
+    100122: glass right003
+    100124: glass right004
+    100126: light box 001
+    100128: light box 002
+    100130: light box 003
+    100132: light box 004
+    100134: mr Sky Portal001
+    100136: mr Sky Portal002
+    100138: mr Sky Portal003
+    100140: mr Sky Portal004
+    100142: Picture frame
+    100144: Picture frame big
+    100146: Picture frame big001
+    100148: Picture frame001
+    100150: Picture frame002
+    100152: Picture frame003
+    100154: shelves001
+    100156: shelves002
+    100158: Sky002
+    100160: Sun001
+    100162: table
+    100164: table001
+    100166: table002
+    100168: table003
+    100170: table004
+    100172: table005
+    100174: teacher's table
+    100176: teachers book
+    100178: Unity_Body_Mesh
+    100180: wall clock
+    100182: wall with doors
+    100184: wall with windows
+    100186: west wall
+    100188: window frame big001
+    100190: window frame big002
+    100192: window frame big003
+    100194: window frame big004
+    100196: window handle001
+    100198: window handle002
+    100200: window handle003
+    100202: window handle004
+    100204: world map frame
+    400000: blackboard
+    400002: books 001
+    400004: books 002
+    400006: books 003
+    400008: books 004
+    400010: books 005
+    400012: Camera001
+    400014: Camera001.Target
+    400016: ceiling
+    400018: chair
+    400020: chair001
+    400022: chair002
+    400024: chair003
+    400026: chair004
+    400028: chair005
+    400030: chair006
+    400032: chair007
+    400034: chair008
+    400036: chair009
+    400038: chair010
+    400040: chair011
+    400042: chair012
+    400044: chair013
+    400046: chair014
+    400048: chair015
+    400050: chair016
+    400052: chair017
+    400054: chair018
+    400056: chair019
+    400058: chair020
+    400060: chair021
+    400062: chair022
+    400064: chair023
+    400066: chair024
+    400068: chair025
+    400070: chair026
+    400072: chair027
+    400074: chair028
+    400076: chair029
+    400078: //RootNode
+    400080: Compass001
+    400082: Daylight001
+    400084: door
+    400086: door frame
+    400088: door frame001
+    400090: door handle
+    400092: door handle001
+    400094: door001
+    400096: east wall
+    400098: file folder 001
+    400100: file folder 002
+    400102: file folder 003
+    400104: file folder 004
+    400106: floor
+    400108: Geo_grp
+    400110: glass left001
+    400112: glass left002
+    400114: glass left003
+    400116: glass left004
+    400118: glass right001
+    400120: glass right002
+    400122: glass right003
+    400124: glass right004
+    400126: light box 001
+    400128: light box 002
+    400130: light box 003
+    400132: light box 004
+    400134: mr Sky Portal001
+    400136: mr Sky Portal002
+    400138: mr Sky Portal003
+    400140: mr Sky Portal004
+    400142: Picture frame
+    400144: Picture frame big
+    400146: Picture frame big001
+    400148: Picture frame001
+    400150: Picture frame002
+    400152: Picture frame003
+    400154: shelves001
+    400156: shelves002
+    400158: Sky002
+    400160: Sun001
+    400162: table
+    400164: table001
+    400166: table002
+    400168: table003
+    400170: table004
+    400172: table005
+    400174: teacher's table
+    400176: teachers book
+    400178: Unity_Body_Mesh
+    400180: wall clock
+    400182: wall with doors
+    400184: wall with windows
+    400186: west wall
+    400188: window frame big001
+    400190: window frame big002
+    400192: window frame big003
+    400194: window frame big004
+    400196: window handle001
+    400198: window handle002
+    400200: window handle003
+    400202: window handle004
+    400204: world map frame
+    2300000: blackboard
+    2300002: books 001
+    2300004: books 002
+    2300006: books 003
+    2300008: books 004
+    2300010: books 005
+    2300012: ceiling
+    2300014: chair
+    2300016: chair001
+    2300018: chair002
+    2300020: chair003
+    2300022: chair004
+    2300024: chair005
+    2300026: chair006
+    2300028: chair007
+    2300030: chair008
+    2300032: chair009
+    2300034: chair010
+    2300036: chair011
+    2300038: chair012
+    2300040: chair013
+    2300042: chair014
+    2300044: chair015
+    2300046: chair016
+    2300048: chair017
+    2300050: chair018
+    2300052: chair019
+    2300054: chair020
+    2300056: chair021
+    2300058: chair022
+    2300060: chair023
+    2300062: chair024
+    2300064: chair025
+    2300066: chair026
+    2300068: chair027
+    2300070: chair028
+    2300072: chair029
+    2300074: door
+    2300076: door frame
+    2300078: door frame001
+    2300080: door handle
+    2300082: door handle001
+    2300084: door001
+    2300086: east wall
+    2300088: file folder 001
+    2300090: file folder 002
+    2300092: file folder 003
+    2300094: file folder 004
+    2300096: floor
+    2300098: glass left001
+    2300100: glass left002
+    2300102: glass left003
+    2300104: glass left004
+    2300106: glass right001
+    2300108: glass right002
+    2300110: glass right003
+    2300112: glass right004
+    2300114: light box 001
+    2300116: light box 002
+    2300118: light box 003
+    2300120: light box 004
+    2300122: Picture frame
+    2300124: Picture frame big
+    2300126: Picture frame big001
+    2300128: Picture frame001
+    2300130: Picture frame002
+    2300132: Picture frame003
+    2300134: shelves001
+    2300136: shelves002
+    2300138: table
+    2300140: table001
+    2300142: table002
+    2300144: table003
+    2300146: table004
+    2300148: table005
+    2300150: teacher's table
+    2300152: teachers book
+    2300154: Unity_Body_Mesh
+    2300156: wall clock
+    2300158: wall with doors
+    2300160: wall with windows
+    2300162: west wall
+    2300164: window frame big001
+    2300166: window frame big002
+    2300168: window frame big003
+    2300170: window frame big004
+    2300172: window handle001
+    2300174: window handle002
+    2300176: window handle003
+    2300178: window handle004
+    2300180: world map frame
+    3300000: blackboard
+    3300002: books 001
+    3300004: books 002
+    3300006: books 003
+    3300008: books 004
+    3300010: books 005
+    3300012: ceiling
+    3300014: chair
+    3300016: chair001
+    3300018: chair002
+    3300020: chair003
+    3300022: chair004
+    3300024: chair005
+    3300026: chair006
+    3300028: chair007
+    3300030: chair008
+    3300032: chair009
+    3300034: chair010
+    3300036: chair011
+    3300038: chair012
+    3300040: chair013
+    3300042: chair014
+    3300044: chair015
+    3300046: chair016
+    3300048: chair017
+    3300050: chair018
+    3300052: chair019
+    3300054: chair020
+    3300056: chair021
+    3300058: chair022
+    3300060: chair023
+    3300062: chair024
+    3300064: chair025
+    3300066: chair026
+    3300068: chair027
+    3300070: chair028
+    3300072: chair029
+    3300074: door
+    3300076: door frame
+    3300078: door frame001
+    3300080: door handle
+    3300082: door handle001
+    3300084: door001
+    3300086: east wall
+    3300088: file folder 001
+    3300090: file folder 002
+    3300092: file folder 003
+    3300094: file folder 004
+    3300096: floor
+    3300098: glass left001
+    3300100: glass left002
+    3300102: glass left003
+    3300104: glass left004
+    3300106: glass right001
+    3300108: glass right002
+    3300110: glass right003
+    3300112: glass right004
+    3300114: light box 001
+    3300116: light box 002
+    3300118: light box 003
+    3300120: light box 004
+    3300122: Picture frame
+    3300124: Picture frame big
+    3300126: Picture frame big001
+    3300128: Picture frame001
+    3300130: Picture frame002
+    3300132: Picture frame003
+    3300134: shelves001
+    3300136: shelves002
+    3300138: table
+    3300140: table001
+    3300142: table002
+    3300144: table003
+    3300146: table004
+    3300148: table005
+    3300150: teacher's table
+    3300152: teachers book
+    3300154: Unity_Body_Mesh
+    3300156: wall clock
+    3300158: wall with doors
+    3300160: wall with windows
+    3300162: west wall
+    3300164: window frame big001
+    3300166: window frame big002
+    3300168: window frame big003
+    3300170: window frame big004
+    3300172: window handle001
+    3300174: window handle002
+    3300176: window handle003
+    3300178: window handle004
+    3300180: world map frame
+    4300000: Unity_Body_Mesh
+    4300002: east wall
+    4300004: west wall
+    4300006: floor
+    4300008: ceiling
+    4300010: blackboard
+    4300012: Picture frame
+    4300014: Picture frame big
+    4300016: teacher's table
+    4300018: shelves001
+    4300020: light box 001
+    4300022: Picture frame big001
+    4300024: Picture frame001
+    4300026: Picture frame002
+    4300028: Picture frame003
+    4300030: wall clock
+    4300032: light box 002
+    4300034: light box 003
+    4300036: light box 004
+    4300038: shelves002
+    4300040: wall with doors
+    4300042: window handle004
+    4300044: window handle003
+    4300046: window handle002
+    4300048: window handle001
+    4300050: window frame big003
+    4300052: window frame big002
+    4300054: window frame big001
+    4300056: wall with windows
+    4300058: glass right004
+    4300060: glass right003
+    4300062: glass right002
+    4300064: glass right001
+    4300066: glass left004
+    4300068: glass left003
+    4300070: glass left002
+    4300072: glass left001
+    4300074: door001
+    4300076: door handle001
+    4300078: door frame001
+    4300080: door handle
+    4300082: door frame
+    4300084: door
+    4300086: world map frame
+    4300088: table
+    4300090: chair
+    4300092: books 004
+    4300094: file folder 004
+    4300096: books 002
+    4300098: books 003
+    4300100: books 001
+    4300102: file folder 003
+    4300104: file folder 002
+    4300106: file folder 001
+    4300108: teachers book
+    4300110: books 005
+    4300112: table001
+    4300114: table002
+    4300116: table003
+    4300118: table004
+    4300120: table005
+    4300122: window frame big004
+    4300124: chair001
+    4300126: chair002
+    4300128: chair003
+    4300130: chair004
+    4300132: chair005
+    4300134: chair006
+    4300136: chair007
+    4300138: chair008
+    4300140: chair009
+    4300142: chair010
+    4300144: chair011
+    4300146: chair012
+    4300148: chair013
+    4300150: chair014
+    4300152: chair015
+    4300154: chair016
+    4300156: chair017
+    4300158: chair018
+    4300160: chair019
+    4300162: chair020
+    4300164: chair021
+    4300166: chair022
+    4300168: chair023
+    4300170: chair024
+    4300172: chair025
+    4300174: chair026
+    4300176: chair027
+    4300178: chair028
+    4300180: chair029
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
